@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="bai1.cpp" />
+    <ClCompile Include="bai2.cpp" />
+    <ClCompile Include="bai3.cpp" />
+    <ClCompile Include="bai4.cpp" />
+    <ClCompile Include="bai5.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

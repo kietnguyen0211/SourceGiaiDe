@@ -5,8 +5,8 @@
 //	cout << "Nhap n: "; cin >> n;
 //	int tong = 0;
 //	for (int i = 0; i < n; i++) {
-//		tong += i;
+//		tong += (pow(i,2));
 //	}
-//	cout << "Tong: " << tong;
+//	cout << "Tong = " << tong << endl;
 //	return 0;
 //}

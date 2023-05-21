@@ -3,10 +3,10 @@
 //int main() {
 //	int n;
 //	cout << "Nhap n: "; cin >> n;
-//	int tong = 0;
-//	for (int i = 0; i < n; i++) {
-//		tong += i;
+//	float tong = 0;
+//	for (int i = 1; i <= n; i++) {
+//		tong += (1*1.0 / i);
 //	}
-//	cout << "Tong: " << tong;
+//	cout << "Tong = " << tong << endl;
 //	return 0;
 //}
